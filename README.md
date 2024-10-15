@@ -1,4 +1,4 @@
-# PONG-1-2-playes
+# PONG-1-2-players
 A simple game inspired by Pong 
 Comands:
 Press space to start
